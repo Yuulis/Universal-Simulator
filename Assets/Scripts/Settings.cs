@@ -14,4 +14,6 @@ public class Settings : MonoBehaviour
     public float mass_min;
     public float mass_max;
     public int spawnPlanetNum;
+    public float timescale_min;
+    public float timescale_max;
 }
